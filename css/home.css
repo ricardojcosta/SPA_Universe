@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background-image: url(../img/universe1.png);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(5, 4, 4);
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20rem;
+    gap: 2.4rem;
+}
+
+header h1 {
+    font-size: 4.8rem;
+    line-height: 125%;
+    font-weight: 700;
+    color: #E1E1E6;
+}
+
+header button {
+    background-color: transparent;
+    width: 19.5rem;
+    height: 4.8rem;
+    border-radius: .5rem;
+    border: 2px solid #FFFFFF
+}
+
+header button a{
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+header button a:hover {
+    font-weight: 700;
+}
