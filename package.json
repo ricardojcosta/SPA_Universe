@@ -1,7 +1,7 @@
 {
   "name": "spa_universe",
   "version": "1.0.0",
-  "description": "",
+  "description": ">Curso Explorer",
   "main": "index.js",
   "scripts": {
     "start": "lite-server"

@@ -1,4 +1,4 @@
-# Stage 5 - Focus Timer Desafio
+# Stage 6 - SPA Universe Desafio
 
 >Curso Explorer
 
@@ -6,7 +6,7 @@
 Projeto construído no curso Explorer da Rocketseat. 
 Praticando a utilização de SPA
 
-![preview](./.git/preview.png)
+![preview](./.github/preview.png)
 
 
 
