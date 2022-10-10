@@ -10,7 +10,7 @@ Praticando a utilização de SPA
 
 
 
-[ 🔗 Clique aqui para acessar](spa-universe-liard.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://spa-universe-liard.vercel.app/)
 
 
 ## ⚒ Tecnologias
